@@ -1,5 +1,7 @@
 # Insight---Stock-Prediction-Challenge-
 
+To run the code, add the 3 input files in the "input" directory and then run the run.sh file. An ouput file comparison.txt will be created in "output" directory.
+
 Input file
 - actual.txt
 - predicted.txt
